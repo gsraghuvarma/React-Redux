@@ -1,0 +1,42 @@
+
+[
+{
+	  name: "Huawei",
+      email: "abc@huawei.com",
+      course: "Telecom",
+      fee: "10000",
+      due: "100",
+      address: "White Field,bangalore",
+      city: "bangalore",
+      state: "Karnataka",
+      country: "India",
+      contact: "9090909090"
+
+},
+{
+	  name: "Huawei Limited",
+      email: "abc@huawei.com",
+      course: "Telecom",
+      fee: "10000",
+      due: "100",
+      address: "White Field,bangalore",
+      city: "bangalore",
+      state: "Karnataka",
+      country: "India",
+      contact: "9090909090"
+
+},
+{
+	  name: "Huawei Limited",
+      email: "abc@huawei.com",
+      course: "Telecom",
+      fee: "10000",
+      due: "100",
+      address: "White Field,bangalore",
+      city: "bangalore",
+      state: "Karnataka",
+      country: "India",
+      contact: "9090909090"
+
+}
+]
